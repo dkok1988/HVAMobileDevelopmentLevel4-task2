@@ -1,10 +1,10 @@
-package com.example.MadLevel4Task2.model
+package com.example.madlevel4task2.model
 
 import android.os.Parcelable
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.example.MadLevel4Task2.R
+import com.example.madlevel4task2.R
 import kotlinx.android.parcel.Parcelize
 import java.util.*
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.MadLevel4Task2">
+    package="com.example.madlevel4task2">
 
     <application
         android:allowBackup="true"
@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.MadLevel4Task2.ui.GameHistoryActivity"></activity>
-        <activity android:name="com.example.MadLevel4Task2.ui.GameActivity">
+        <activity android:name="com.example.madlevel4task2.ui.GameHistoryActivity"></activity>
+        <activity android:name="com.example.madlevel4task2.ui.GameActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

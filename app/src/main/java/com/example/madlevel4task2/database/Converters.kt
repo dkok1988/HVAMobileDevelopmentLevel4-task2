@@ -1,4 +1,4 @@
-package com.example.MadLevel4Task2.database
+package com.example.madlevel4task2.database
 
 import androidx.room.TypeConverter
 import java.util.*

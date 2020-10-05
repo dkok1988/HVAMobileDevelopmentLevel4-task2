@@ -1,4 +1,4 @@
-package com.example.MadLevel4Task2.ui
+package com.example.madlevel4task2.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,9 +7,9 @@ import android.view.MenuItem
 import android.widget.LinearLayout
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.MadLevel4Task2.R
-import com.example.MadLevel4Task2.database.GameRepository
-import com.example.MadLevel4Task2.model.Game
+import com.example.madlevel4task2.R
+import com.example.madlevel4task2.database.GameRepository
+import com.example.madlevel4task2.model.Game
 import kotlinx.android.synthetic.main.activity_game_history.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

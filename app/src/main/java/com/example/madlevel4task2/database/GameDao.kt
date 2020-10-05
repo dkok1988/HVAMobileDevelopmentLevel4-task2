@@ -1,10 +1,10 @@
-package com.example.MadLevel4Task2.database
+package com.example.madlevel4task2.database
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.example.MadLevel4Task2.model.Game
+import com.example.madlevel4task2.model.Game
 
 @Dao
 interface GameDao {

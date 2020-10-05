@@ -1,7 +1,7 @@
-package com.example.MadLevel4Task2.database
+package com.example.madlevel4task2.database
 
 import android.content.Context
-import com.example.MadLevel4Task2.model.Game
+import com.example.madlevel4task2.model.Game
 
 class GameRepository(context: Context) {
     private val gameDao: GameDao

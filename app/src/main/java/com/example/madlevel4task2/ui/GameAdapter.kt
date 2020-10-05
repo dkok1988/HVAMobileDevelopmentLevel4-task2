@@ -1,11 +1,11 @@
-package com.example.MadLevel4Task2.ui
+package com.example.madlevel4task2.ui
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.MadLevel4Task2.R
-import com.example.MadLevel4Task2.model.Game
+import com.example.madlevel4task2.R
+import com.example.madlevel4task2.model.Game
 import kotlinx.android.synthetic.main.layout_game_item.view.*
 
 class GameAdapter(private val gameHistory: List<Game>) :
